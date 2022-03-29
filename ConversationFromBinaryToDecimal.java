@@ -1,5 +1,5 @@
 package PROGRAMMING2;
-
+import java.swing.*;
 public class ConversationFromBinaryToDecimal {
 
 public static void main(String[] args){
